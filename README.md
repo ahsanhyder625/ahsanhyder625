@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, Hi there, Ahsan here!</h1>
+<h1 align="center">Hi :wave:, Ahsan Hyder here!</h1>
 
 <h3 align="center">A Mern Stack Developer from <span>
   <img height="30px" width="30px" src=https://user-images.githubusercontent.com/59872807/89734872-6a279400-da7c-11ea-891e-86ef7e7cf071.jpg>
@@ -8,13 +8,13 @@
  </p> 
   
 <p align="center">
-<a href=https://ahsanhyder625.github.io/Portfolio_Ahsan/ target="blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt=" Ahsan" height="20" width="20" /></a>
-<a href=https://twitter.com/ahsanhyder625 target="blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt=" Ahsan" height="20" width="20" /></a>
-<a href=https://www.linkedin.com/in/ahsan-hyder-a27663135 target="blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Ahsan" height="20" width="20" /></a>
+<a href=https://ahsanhyder625.github.io/Portfolio_Ahsan/ target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt=" Ahsan" height="20" width="20" /></a>
+<a href=https://twitter.com/ahsanhyder625 target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt=" Ahsan" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/ahsan-hyder-a27663135 target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Ahsan" height="20" width="20" /></a>
 </p>
 
 <p align="center">
-To obtain a position as a developer, where I can strive for excellence in my work with dedication, focus, proactive approach, positive attitude, and passion. To utilize my knowledge, skills, and abilities in the best possible way for the fulfillment of organizational goals.
+  I am an allround dedicated and passionate full stack developer trained and skilled in MERN stack at Masai school, looking forward to join a company where I can enhance my     skills and can become an asset to the organisation.
 </p>
   
 <h3 align="center">Profiencies</h3> 
