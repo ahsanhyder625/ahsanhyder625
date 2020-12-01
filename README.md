@@ -31,6 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhyder625&theme=dark" height="207px" />
 
 </P>
+<h3>You Can Check out my blogs on medium :</h1>
+<a href="https://medium.com/@ahsanhyder625">Medium</a>
 
 <!--
 **ahsanhyder625/ahsanhyder625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
