@@ -25,11 +25,23 @@
 </p>
 
 <h3 align="center">My Proficiencies</h3>
+
 <p align="center">
   <img height="90px" src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg" alt="Skills Image 1">
 </p>
+
 <p align="center">
   <img height="90px" src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg" alt="Skills Image 2">
+</p>
+
+<!-- Tailwind CSS -->
+<p align="center">
+  <img height="90px" src="https://user-images.githubusercontent.com/59872807/89756710-d3b46a80-db0f-11ea-97f5-eab881ad1c4b.svg" alt="Tailwind CSS">
+</p>
+
+<!-- React Hooks -->
+<p align="center">
+  <img height="90px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Hooks" />
 </p>
 
 <h3 align="center">My GitHub Stats</h3>
