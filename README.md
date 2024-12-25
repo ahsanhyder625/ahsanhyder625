@@ -36,7 +36,7 @@
 
 <!-- Tailwind CSS -->
 <p align="center">
-  <img height="90px" src="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css" alt="Tailwind CSS Logo">
+  <img height="90px" src="[https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css](https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css)" alt="Tailwind CSS Logo">
 </p>
 
 <!-- React Hooks -->
